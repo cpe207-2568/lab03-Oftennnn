@@ -1,0 +1,53 @@
+
+body {background-color: rgb(86, 173, 213);}
+
+
+.header {
+    text-align: center;
+    color: darkblue;
+}
+
+p{
+    color: aliceblue;
+}
+h3{
+    color:rgb(6, 58, 204) ;
+}
+.box{
+    border:  solid rgb(18, 235, 18);
+    width: 500px;
+    margin-bottom: 20px;
+    margin-left: auto; margin-right: auto;
+    
+
+}
+
+
+
+
+
+.noto{
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <100>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.notothai {
+  font-family: "Noto Sans Thai", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <100>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.rounded-all {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
